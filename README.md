@@ -1,8 +1,10 @@
 ﻿# AutomationExercise-TestCase8-VerifyAllProducts
 Test Case 8: Verify All Products
+
 This repository contains the implementation and documentation of Test Case 8 from Automation Exercise: "Verify All Products."
 
 Overview
+
 The test case validates the application's behavior when navigating to the "All Products" page, ensuring that the page displays a comprehensive list of products with accurate details. This test helps confirm that the product listing functionality operates correctly and provides a seamless user experience.
 
 Steps Covered:
